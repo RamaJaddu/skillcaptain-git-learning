@@ -1,0 +1,6 @@
+cd name_folder
+vi abc.txt
+press i
+write something
+press escape
+and then write :wq
